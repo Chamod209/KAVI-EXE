@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "KAVI-EXE=GnRi2CAa#ODLnyQnnf4W849lHUr7uG4Hz_peRMg6OMkM9YKAaOA0",
       "required": true
     },  
 
